@@ -1,0 +1,55 @@
+App Bar:
+    -toggle_button
+    -brand
+    -search
+    -notification
+    -cart
+
+
+Sub Category(small circular avatar):
+    -sub category image
+    -sub category name
+
+Welcome Carousel(full screen image):
+    -top discounted products
+
+Best Category  Carousel(full screen image):
+    -category image with upto discount
+
+Biggest Deal Brands(small card ):
+    -top discounted Brands
+    -brand name
+    -discount %
+
+Deal of the day (slider card):
+    -top offer
+
+Best Brands (slider card):
+    -brad name
+    -price starts upto
+
+Trending Products Carousel(full screen image):
+    -most buy products
+
+Must Have Products (big slider card):
+    -image
+    -title
+    -small description
+
+Gift Card(full screen image):
+    -Gift crad image
+
+1st Sub Category (small circular avatar in a container):
+    -category image
+    -category name
+
+// To all Sub Category
+
+footer
+
+Bottom App Bar:
+    -home
+    -category
+    -settings
+    -profile
+    
