@@ -1,0 +1,4 @@
+Sub Category(toggel button to show category list/ (small full screen image)):
+    -image
+    -name
+    -list of Category

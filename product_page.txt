@@ -1,0 +1,33 @@
+Product(full image):
+    -product all images
+    -title
+    -final price(with discount)
+    -MRP price
+    -description
+    -any offer(if have)
+    -product details ( category, color, size etc)
+    -overall review
+
+Customers Reviews:
+    -customer name
+    -message 
+    -stars
+    -review like or dislike
+
+Similar Products(small card with slider):
+    -image
+    -title
+    -final price(with discount)
+    -MRP price
+    -small description
+
+Seller Details:
+    -Name
+    
+footer
+
+Bottom App Bar:
+    -add to wishlist
+    -add to cart
+
+

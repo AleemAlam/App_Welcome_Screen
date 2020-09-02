@@ -1,0 +1,14 @@
+My Orders(small full screen card):
+    -order number
+    -image 
+    -title
+    -small desciption
+    -final price(with discount)
+    -MRP price
+    -Saved amount(MRP price- final price)
+    -delivery status 
+    -delivery date
+
+Rate This Product:
+    -starts
+    -comment

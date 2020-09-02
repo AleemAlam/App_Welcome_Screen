@@ -1,0 +1,7 @@
+Wishlist Product(small card):
+    -image
+    -title
+    -final price(with discount)
+    -MRP price
+
+move to bag button

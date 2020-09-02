@@ -1,0 +1,38 @@
+Available Offer:
+    -offer details
+    -see more toggle button
+
+Cart Details(seprate container):
+    -image
+    -small descriptions
+    -quantity (default 1)
+    -final price(with discount)
+    -MRP price
+    -refundable or non refundable
+    -remove button
+    -move to wishlist button
+
+Smiliar Products(with best discount/ (card with slider)):
+    -image
+    -small descriptions
+    -final price(with discount)
+    -MRP price
+    -add to card button
+    
+Apply Coupon Button
+
+Devilery Address:
+    -default address
+    -change or add address button
+
+All Products Invoice:
+    -total MRP
+    -total discount
+    -coupon
+    -fee
+    -final amount
+    
+Bottom App Bar:
+    -final amount
+    -place order button
+    

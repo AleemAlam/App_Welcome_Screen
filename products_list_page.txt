@@ -1,0 +1,10 @@
+Products List(fliter by user click or search/ (2 Card in a row)):
+    -image
+    -small descriptions
+    -final price(with discount)
+    -MRP price
+
+Bottom App Bar:
+    -sort
+    -fliter
+    
